@@ -1,0 +1,6 @@
+      *************************************************
+      *  Constants Copy file: DID.78
+      *************************************************
+           78 DID-OK                            VALUE 1.
+           78 DID-CANCEL                        VALUE 2.
+           78 DID-ERROR                         VALUE H"FFFF".

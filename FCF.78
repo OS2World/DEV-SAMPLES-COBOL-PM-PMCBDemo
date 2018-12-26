@@ -1,0 +1,28 @@
+      *************************************************
+      *  Constants Copy file: FCF.78
+      *************************************************
+           78 FCF-TITLEBAR                      VALUE H"01".
+           78 FCF-SYSMENU                       VALUE H"02".
+           78 FCF-MENU                          VALUE H"04".
+           78 FCF-SIZEBORDER                    VALUE H"08".
+           78 FCF-MINBUTTON                     VALUE H"10".
+           78 FCF-MAXBUTTON                     VALUE H"20".
+           78 FCF-MINMAX                        VALUE H"30".
+           78 FCF-VERTSCROLL                    VALUE H"40".
+           78 FCF-HORZSCROLL                    VALUE H"80".
+           78 FCF-DLGBORDER                     VALUE H"0100".
+           78 FCF-BORDER                        VALUE H"0200".
+           78 FCF-SHELLPOSITION                 VALUE H"0400".
+           78 FCF-TASKLIST                      VALUE H"0800".
+           78 FCF-NOBYTEALIGN                   VALUE H"1000".
+           78 FCF-NOMOVEWITHOWNER               VALUE H"2000".
+           78 FCF-ICON                          VALUE H"4000".
+           78 FCF-ACCELTABLE                    VALUE H"8000".
+           78 FCF-SYSMODAL                      VALUE H"010000".
+           78 FCF-SCREENALIGN                   VALUE H"020000".
+           78 FCF-MOUSEALIGN                    VALUE H"040000".
+           78 FCF-PALETTE-NORMAL                VALUE H"080000".
+           78 FCF-PALETTE-HELP                  VALUE H"100000".
+           78 FCF-PALETTE-POPUPODD              VALUE H"200000".
+           78 FCF-PALETTE-POPUPEVEN             VALUE H"400000".
+           78 FCF-STANDARD                      VALUE H"08CC3F".

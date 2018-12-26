@@ -1,0 +1,26 @@
+      *************************************************
+      *  Constants Copy file: CLR.78
+      *************************************************
+           78 CLR-NOINDEX                       VALUE -254.
+           78 CLR-FALSE                         VALUE -5.
+           78 CLR-TRUE                          VALUE -4.
+           78 CLR-ERROR                         VALUE -255.
+           78 CLR-DEFAULT                       VALUE -3.
+           78 CLR-WHITE                         VALUE -2.
+           78 CLR-BLACK                         VALUE -1.
+           78 CLR-BACKGROUND                    VALUE 0.
+           78 CLR-BLUE                          VALUE 1.
+           78 CLR-RED                           VALUE 2.
+           78 CLR-PINK                          VALUE 3.
+           78 CLR-GREEN                         VALUE 4.
+           78 CLR-CYAN                          VALUE 5.
+           78 CLR-YELLOW                        VALUE 6.
+           78 CLR-NEUTRAL                       VALUE 7.
+           78 CLR-DARKGRAY                      VALUE 8.
+           78 CLR-DARKBLUE                      VALUE 9.
+           78 CLR-DARKRED                       VALUE 10.
+           78 CLR-DARKPINK                      VALUE 11.
+           78 CLR-DARKGREEN                     VALUE 12.
+           78 CLR-DARKCYAN                      VALUE 13.
+           78 CLR-BROWN                         VALUE 14.
+           78 CLR-PALEGRAY                      VALUE 15.

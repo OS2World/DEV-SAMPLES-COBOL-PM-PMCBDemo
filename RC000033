@@ -1,0 +1,115 @@
+#line 0 "PMDEMO2.RC"
+
+
+
+
+#line 5 "PMDEMO2.RC"
+#line 6 "PMDEMO2.RC"
+
+ICON  1 MICRO.ICO
+
+MENU 1
+{
+SUBMENU "~File",                     2
+{
+MENUITEM "~Load data ",         11
+MENUITEM SEPARATOR
+MENUITEM "A~bout PmDemo2",      10
+}
+}
+
+#line 0 "PMDEMO2.DLG"
+DLGTEMPLATE 22 LOADONCALL MOVEABLE DISCARDABLE
+BEGIN
+    DIALOG "", 22, -90, -60, 160, 191, 0x00000010L | 0x00000080L |
+                0x80000000L | 0x10000000L | 0x04000000L
+    BEGIN
+        CONTROL "Annual Sales Figures for :", 259, 4, 176, 110, 16, ((PSZ)0xffff0005L),
+                0x0001L | 0x0100 | 0x0400 | 0x00010000L | 0x80000000L
+        CONTROL "", 24, 119, 176, 40, 16, ((PSZ)0xffff0005L), 0x0001L | 0x0000 |
+                0x0400 | 0x1000 | 0x00010000L | 0x80000000L
+        CONTROL "OK", 1, 75, 2, 52, 16, ((PSZ)0xffff0003L), 0L | 0x0400L | 
+                0x00010000L | 0x00020000L | 0x80000000L
+        CONTROL "January", 256, 16, 160, 45, 8, ((PSZ)0xffff0005L), 0x0001L | 0x0200 | 
+                0x0000 | 0x00010000L | 0x80000000L
+        CONTROL "February", 257, 16, 148, 45, 8, ((PSZ)0xffff0005L), 0x0001L | 0x0200 | 
+                0x0000 | 0x00010000L | 0x80000000L
+        CONTROL "March", 258, 16, 136, 45, 8, ((PSZ)0xffff0005L), 0x0001L | 0x0200 | 
+                0x0000 | 0x00010000L | 0x80000000L
+        CONTROL "April", 258, 16, 124, 45, 8, ((PSZ)0xffff0005L), 0x0001L | 0x0200 | 
+                0x0000 | 0x00010000L | 0x80000000L
+        CONTROL "May", 258, 16, 112, 45, 8, ((PSZ)0xffff0005L), 0x0001L | 0x0200 | 
+                0x0000 | 0x00010000L | 0x80000000L
+        CONTROL "June", 258, 16, 100, 45, 8, ((PSZ)0xffff0005L), 0x0001L | 0x0200 | 
+                0x0000 | 0x00010000L | 0x80000000L
+        CONTROL "July", 258, 16, 88, 45, 8, ((PSZ)0xffff0005L), 0x0001L | 0x0200 | 
+                0x0000 | 0x00010000L | 0x80000000L
+        CONTROL "August", 258, 16, 76, 45, 8, ((PSZ)0xffff0005L), 0x0001L | 0x0200 | 
+                0x0000 | 0x00010000L | 0x80000000L
+        CONTROL "September", 258, 16, 64, 45, 8, ((PSZ)0xffff0005L), 0x0001L | 0x0200 | 
+                0x0000 | 0x00010000L | 0x80000000L
+        CONTROL "October", 258, 16, 52, 45, 8, ((PSZ)0xffff0005L), 0x0001L | 0x0200 | 
+                0x0000 | 0x00010000L | 0x80000000L
+        CONTROL "November", 258, 16, 40, 45, 8, ((PSZ)0xffff0005L), 0x0001L | 0x0200 | 
+                0x0000 | 0x00010000L | 0x80000000L
+        CONTROL "December", 258, 16, 28, 45, 8, ((PSZ)0xffff0005L), 0x0001L | 0x0200 | 
+                0x0000 | 0x00010000L | 0x80000000L
+        CONTROL "", 31, 80, 160, 39, 8, ((PSZ)0xffff0006L), 0x00000002L
+               | 0x00000008L | 0x00020000L | 0x80000000L
+        CONTROL "", 32, 80, 148, 39, 8, ((PSZ)0xffff0006L), 0x00000002L
+               | 0x00000008L | 0x00020000L | 0x80000000L
+        CONTROL "", 33, 80, 136, 39, 8, ((PSZ)0xffff0006L), 0x00000002L
+               | 0x00000008L | 0x00020000L | 0x80000000L
+        CONTROL "", 34, 80, 124, 39, 8, ((PSZ)0xffff0006L), 0x00000002L
+               | 0x00000008L | 0x00020000L | 0x80000000L
+        CONTROL "", 35, 80, 112, 39, 8, ((PSZ)0xffff0006L), 0x00000002L
+               | 0x00000008L | 0x00020000L | 0x80000000L
+        CONTROL "", 36, 80, 100, 39, 8, ((PSZ)0xffff0006L), 0x00000002L
+               | 0x00000008L | 0x00020000L | 0x80000000L
+        CONTROL "", 37, 80, 88, 39, 8, ((PSZ)0xffff0006L), 0x00000002L
+               | 0x00000008L | 0x00020000L | 0x80000000L
+        CONTROL "", 38, 80, 76, 39, 8, ((PSZ)0xffff0006L), 0x00000002L
+               | 0x00000008L | 0x00020000L | 0x80000000L
+        CONTROL "", 39, 80, 64, 39, 8, ((PSZ)0xffff0006L), 0x00000002L
+               | 0x00000008L | 0x00020000L | 0x80000000L
+        CONTROL "", 40, 80, 52, 39, 8, ((PSZ)0xffff0006L), 0x00000002L
+               | 0x00000008L | 0x00020000L | 0x80000000L
+        CONTROL "", 41, 80, 40, 39, 8, ((PSZ)0xffff0006L), 0x00000002L
+               | 0x00000008L | 0x00020000L | 0x80000000L
+        CONTROL "", 42, 80, 28, 39, 8, ((PSZ)0xffff0006L), 0x00000002L
+               | 0x00000008L | 0x00020000L | 0x80000000L
+    END
+END
+
+DLGTEMPLATE 23 LOADONCALL MOVEABLE DISCARDABLE
+BEGIN
+    DIALOG "", 23, 17, 44, 140, 63, 0x00000010L | 0x00000080L | 0x80000000L |
+                0x10000000L | 0x04000000L
+    BEGIN
+        CONTROL "Annual Sales Figures", 256, 3, 51, 97, 8, ((PSZ)0xffff0005L), 0x0001L |
+                0x0000 | 0x0000 | 0x00010000L | 0x80000000L
+        CONTROL "Sales Person", 257, 3, 39, 80, 8, ((PSZ)0xffff0005L), 0x0001L |
+                0x0000 | 0x0000 | 0x00010000L | 0x80000000L
+        CONTROL "", 50, 64, 39, 39, 8, ((PSZ)0xffff0006L), 0x00000000L | 0x00000008L |
+                | 0x00000004L | 0x00020000L | 0x80000000L
+        CONTROL "OK", 1, 35, 15, 38, 13, ((PSZ)0xffff0003L), 0L | 0x0400L |
+                0x00010000L | 0x00020000L | 0x80000000L
+    END
+END
+DLGTEMPLATE 21 LOADONCALL MOVEABLE DISCARDABLE
+BEGIN
+    DIALOG "", 21, 32, 32, 200, 88, 0x00000010L | 0x00000080L |
+                0x10000000L | 0x04000000L
+    BEGIN
+        CONTROL "PMDEMO2 Written in COBOL", -1, 10, 64, 180, 8,
+                ((PSZ)0xffff0005L), 0x0001L | 0x0100 | 0x0000 | 0x00010000L | 0x80000000L
+        CONTROL "Samples of data entry and graphics", -1, 10, 40, 180, 8, 
+                ((PSZ)0xffff0005L), 0x0001L | 0x0100 | 0x0000 | 0x00010000L | 0x80000000L
+        CONTROL "Written by B J Edwards, 1990", -1, 10, 32, 180, 8, ((PSZ)0xffff0005L), 
+                0x0001L | 0x0100 | 0x0000 | 0x00010000L | 0x80000000L
+        CONTROL "OK", 1, 80, 8, 40, 16, ((PSZ)0xffff0003L), 0L | 0x0400L | 
+                0x00010000L | 0x00020000L | 0x80000000L
+    END
+END
+
+#line 20 "PMDEMO2.RC"

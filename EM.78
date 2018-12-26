@@ -1,0 +1,16 @@
+      *************************************************
+      *  Constants Copy file: EM.78
+      *************************************************
+           78 EM-QUERYCHANGED                   VALUE H"0140".
+           78 EM-QUERYSEL                       VALUE H"0141".
+           78 EM-SETSEL                         VALUE H"0142".
+           78 EM-SETTEXTLIMIT                   VALUE H"0143".
+           78 EM-CUT                            VALUE H"0144".
+           78 EM-COPY                           VALUE H"0145".
+           78 EM-CLEAR                          VALUE H"0146".
+           78 EM-PASTE                          VALUE H"0147".
+           78 EM-QUERYFIRSTCHAR                 VALUE H"0148".
+           78 EM-SETFIRSTCHAR                   VALUE H"0149".
+           78 EM-QUERYREADONLY                  VALUE H"014A".
+           78 EM-SETREADONLY                    VALUE H"014B".
+           78 EM-SETINSERTMODE                  VALUE H"014C".

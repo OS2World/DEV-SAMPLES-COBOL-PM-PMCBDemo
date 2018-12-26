@@ -1,0 +1,13 @@
+      *************************************************
+      *  Constants Copy file: CS.78
+      *************************************************
+           78 CS-MOVENOTIFY                     VALUE H"01".
+           78 CS-SIZEREDRAW                     VALUE H"04".
+           78 CS-HITTEST                        VALUE H"08".
+           78 CS-PUBLIC                         VALUE H"10".
+           78 CS-FRAME                          VALUE H"20".
+           78 CS-CLIPCHILDREN                   VALUE H"20000000".
+           78 CS-CLIPSIBLINGS                   VALUE H"10000000".
+           78 CS-PARENTCLIP                     VALUE H"08000000".
+           78 CS-SAVEBITS                       VALUE H"04000000".
+           78 CS-SYNCPAINT                      VALUE H"02000000".

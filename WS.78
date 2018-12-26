@@ -1,0 +1,15 @@
+      *************************************************
+      *  Constants Copy file: WS.78
+      *************************************************
+           78 WS-VISIBLE                        VALUE H"80000000".
+           78 WS-DISABLED                       VALUE H"40000000".
+           78 WS-CLIPCHILDREN                   VALUE H"20000000".
+           78 WS-CLIPSIBLINGS                   VALUE H"10000000".
+           78 WS-PARENTCLIP                     VALUE H"08000000".
+           78 WS-SAVEBITS                       VALUE H"04000000".
+           78 WS-SYNCPAINT                      VALUE H"02000000".
+           78 WS-MINIMIZED                      VALUE H"01000000".
+           78 WS-MAXIMIZED                      VALUE H"800000".
+           78 WS-GROUP                          VALUE H"010000".
+           78 WS-TABSTOP                        VALUE H"020000".
+           78 WS-MULTISELECT                    VALUE H"040000".

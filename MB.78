@@ -1,0 +1,32 @@
+      *************************************************
+      *  Constants Copy file: MB.78
+      *************************************************
+           78 MB-OK                             VALUE 0.
+           78 MB-OKCANCEL                       VALUE H"01".
+           78 MB-RETRYCANCEL                    VALUE H"02".
+           78 MB-ABORTRETRYIGNORE               VALUE H"03".
+           78 MB-YESNO                          VALUE H"04".
+           78 MB-YESNOCANCEL                    VALUE H"05".
+           78 MB-CANCEL                         VALUE H"06".
+           78 MB-ENTER                          VALUE H"07".
+           78 MB-ENTERCANCEL                    VALUE H"08".
+           78 MB-NOICON                         VALUE 0.
+           78 MB-CUANOTIFICATION                VALUE 0.
+           78 MB-ICONQUESTION                   VALUE H"10".
+           78 MB-ICONEXCLAMATION                VALUE H"20".
+           78 MB-CUAWARNING                     VALUE H"20".
+           78 MB-ICONASTERISK                   VALUE H"30".
+           78 MB-ICONHAND                       VALUE H"40".
+           78 MB-CUACRITICAL                    VALUE H"40".
+           78 MB-QUERY                          VALUE H"10".
+           78 MB-WARNING                        VALUE H"20".
+           78 MB-INFORMATION                    VALUE H"30".
+           78 MB-CRITICAL                       VALUE H"40".
+           78 MB-ERROR                          VALUE H"40".
+           78 MB-DEFBUTTON1                     VALUE 0.
+           78 MB-DEFBUTTON2                     VALUE H"0100".
+           78 MB-DEFBUTTON3                     VALUE H"0200".
+           78 MB-APPLMODAL                      VALUE 0.
+           78 MB-SYSTEMMODAL                    VALUE H"1000".
+           78 MB-HELP                           VALUE H"2000".
+           78 MB-MOVEABLE                       VALUE H"4000".

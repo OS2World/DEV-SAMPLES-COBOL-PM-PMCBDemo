@@ -1,0 +1,27 @@
+      *************************************************
+      *  Constants Copy file: SPTR.78
+      *************************************************
+           78 SPTR-ARROW                        VALUE 1.
+           78 SPTR-TEXT                         VALUE 2.
+           78 SPTR-WAIT                         VALUE 3.
+           78 SPTR-SIZE                         VALUE 4.
+           78 SPTR-MOVE                         VALUE 5.
+           78 SPTR-SIZENWSE                     VALUE 6.
+           78 SPTR-SIZENESW                     VALUE 7.
+           78 SPTR-SIZEWE                       VALUE 8.
+           78 SPTR-SIZENS                       VALUE 9.
+           78 SPTR-APPICON                      VALUE 10.
+           78 SPTR-ICONINFORMATION              VALUE 11.
+           78 SPTR-ICONQUESTION                 VALUE 12.
+           78 SPTR-ICONERROR                    VALUE 13.
+           78 SPTR-ICONWARNING                  VALUE 14.
+           78 SPTR-CPTR                         VALUE 14.
+           78 SPTR-ILLEGAL                      VALUE 18.
+           78 SPTR-FILE                         VALUE 19.
+           78 SPTR-FOLDER                       VALUE 20.
+           78 SPTR-MULTFILE                     VALUE 21.
+           78 SPTR-PROGRAM                      VALUE 22.
+           78 SPTR-HANDICON                     VALUE 13.
+           78 SPTR-QUESICON                     VALUE 12.
+           78 SPTR-BANGICON                     VALUE 14.
+           78 SPTR-NOTEICON                     VALUE 11.

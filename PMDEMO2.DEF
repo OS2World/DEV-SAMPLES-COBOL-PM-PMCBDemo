@@ -1,0 +1,9 @@
+NAME  PMDEMO2 WINDOWAPI
+PROTMODE
+STACKSIZE   16384
+EXPORTS
+  ClientWndProc  @1
+  DataDlgProc    @2
+  KeyDlgProc     @3
+  AboutDlgProc   @4
+  GraphsWndProc  @5

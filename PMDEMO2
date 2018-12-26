@@ -1,0 +1,18 @@
+#--------------
+# PMDEMO2 file
+#
+#--------------
+
+
+pmdemo2.res : pmdemo2.rc pmdemo2.dlg pmdemo2.h
+        rc -r pmdemo2.rc
+
+pmdemo2.cpy : pmdemo2.h
+        h2cpy pmdemo2.h
+
+pmdemo2.obj : pmdemo2.cbl pmdemo2.cpy
+        cobol pmdemo2 ganim omf(obj) litlink;
+
+pmdemo2.exe : pmdemo2.obj pmdemo2.def pmdemo2.res
+        link pmdemo2 extfh,,,lcobol os2,pmdemo2
+        rc pmdemo2.res pmdemo2.exe

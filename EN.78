@@ -1,0 +1,10 @@
+      *************************************************
+      *  Constants Copy file: EN.78
+      *************************************************
+           78 EN-SETFOCUS                       VALUE H"01".
+           78 EN-KILLFOCUS                      VALUE H"02".
+           78 EN-CHANGE                         VALUE H"04".
+           78 EN-SCROLL                         VALUE H"08".
+           78 EN-MEMERROR                       VALUE H"10".
+           78 EN-OVERFLOW                       VALUE H"20".
+           78 EN-INSERTMODETOGGLE               VALUE H"40".

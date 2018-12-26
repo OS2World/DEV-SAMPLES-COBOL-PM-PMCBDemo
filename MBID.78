@@ -1,0 +1,13 @@
+      *************************************************
+      *  Constants Copy file: MBID.78
+      *************************************************
+           78 MBID-OK                           VALUE 1.
+           78 MBID-CANCEL                       VALUE 2.
+           78 MBID-ABORT                        VALUE 3.
+           78 MBID-RETRY                        VALUE 4.
+           78 MBID-IGNORE                       VALUE 5.
+           78 MBID-YES                          VALUE 6.
+           78 MBID-NO                           VALUE 7.
+           78 MBID-HELP                         VALUE 8.
+           78 MBID-ENTER                        VALUE 9.
+           78 MBID-ERROR                        VALUE H"FFFF".

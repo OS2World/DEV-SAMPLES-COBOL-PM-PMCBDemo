@@ -1,0 +1,16 @@
+      *************************************************
+      *  Constants Copy file: BM.78
+      *************************************************
+           78 BM-CLICK                          VALUE H"0120".
+           78 BM-QUERYCHECKINDEX                VALUE H"0121".
+           78 BM-QUERYHILITE                    VALUE H"0122".
+           78 BM-SETHILITE                      VALUE H"0123".
+           78 BM-QUERYCHECK                     VALUE H"0124".
+           78 BM-SETCHECK                       VALUE H"0125".
+           78 BM-SETDEFAULT                     VALUE H"0126".
+           78 BM-ERROR                          VALUE -1.
+           78 BM-DEFAULT                        VALUE 0.
+           78 BM-OVERPAINT                      VALUE 2.
+           78 BM-LEAVEALONE                     VALUE 5.
+           78 BM-OR                             VALUE 1.
+           78 BM-XOR                            VALUE 4.

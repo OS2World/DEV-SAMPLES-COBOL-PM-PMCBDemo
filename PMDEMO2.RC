@@ -1,0 +1,20 @@
+/*---------------------------------
+   PMDEMO.RC resource script file
+  ---------------------------------*/
+
+#include <os2.h>
+#include "pmdemo2.h"
+
+ICON  1 MICRO.ICO
+
+MENU ID_RESOURCE
+     {
+     SUBMENU "~File",                     IDM_SELECT
+          {
+          MENUITEM "~Load data ",         IDM_ENTRIES
+          MENUITEM SEPARATOR
+          MENUITEM "A~bout PmDemo2",      IDM_ABOUT
+          }
+     }
+
+rcinclude pmdemo2.dlg

@@ -1,0 +1,18 @@
+      *************************************************
+      *  Constants Copy file: SWP.78
+      *************************************************
+           78 SWP-SIZE                          VALUE H"01".
+           78 SWP-MOVE                          VALUE H"02".
+           78 SWP-ZORDER                        VALUE H"04".
+           78 SWP-SHOW                          VALUE H"08".
+           78 SWP-HIDE                          VALUE H"10".
+           78 SWP-NOREDRAW                      VALUE H"20".
+           78 SWP-NOADJUST                      VALUE H"40".
+           78 SWP-ACTIVATE                      VALUE H"80".
+           78 SWP-DEACTIVATE                    VALUE H"0100".
+           78 SWP-EXTSTATECHANGE                VALUE H"0200".
+           78 SWP-MINIMIZE                      VALUE H"0400".
+           78 SWP-MAXIMIZE                      VALUE H"0800".
+           78 SWP-RESTORE                       VALUE H"1000".
+           78 SWP-FOCUSACTIVATE                 VALUE H"2000".
+           78 SWP-FOCUSDEACTIVATE               VALUE H"4000".

@@ -1,0 +1,16 @@
+      *************************************************
+      *  Constants Copy file: DT.78
+      *************************************************
+           78 DT-LEFT                           VALUE 0.
+           78 DT-EXTERNALLEADING                VALUE H"80".
+           78 DT-CENTER                         VALUE H"0100".
+           78 DT-RIGHT                          VALUE H"0200".
+           78 DT-TOP                            VALUE 0.
+           78 DT-VCENTER                        VALUE H"0400".
+           78 DT-BOTTOM                         VALUE H"0800".
+           78 DT-HALFTONE                       VALUE H"1000".
+           78 DT-MNEMONIC                       VALUE H"2000".
+           78 DT-WORDBREAK                      VALUE H"4000".
+           78 DT-ERASERECT                      VALUE H"8000".
+           78 DT-QUERYEXTENT                    VALUE H"02".
+           78 DT-TEXTATTRS                      VALUE H"40".

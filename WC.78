@@ -1,0 +1,13 @@
+      *************************************************
+      *  Constants Copy file: WC.78
+      *************************************************
+           78 WC-STATIC                         VALUE H"FFFF0005".
+           78 WC-BUTTON                         VALUE H"FFFF0003".
+           78 WC-COMBOBOX                       VALUE H"FFFF0002".
+           78 WC-ENTRYFIELD                     VALUE H"FFFF0006".
+           78 WC-MLE                            VALUE H"FFFF000A".
+           78 WC-LISTBOX                        VALUE H"FFFF0007".
+           78 WC-MENU                           VALUE H"FFFF0004".
+           78 WC-SCROLLBAR                      VALUE H"FFFF0008".
+           78 WC-FRAME                          VALUE H"FFFF0001".
+           78 WC-TITLEBAR                       VALUE H"FFFF0009".

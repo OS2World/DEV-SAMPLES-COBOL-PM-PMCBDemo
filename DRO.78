@@ -1,0 +1,6 @@
+      *************************************************
+      *  Constants Copy file: DRO.78
+      *************************************************
+           78 DRO-FILL                          VALUE 1.
+           78 DRO-OUTLINE                       VALUE 2.
+           78 DRO-OUTLINEFILL                   VALUE 3.

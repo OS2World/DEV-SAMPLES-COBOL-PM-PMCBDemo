@@ -1,0 +1,23 @@
+      *************************************************
+      *  Constants Copy file: PATSYM.78
+      *************************************************
+           78 PATSYM-ERROR                      VALUE -1.
+           78 PATSYM-DEFAULT                    VALUE 0.
+           78 PATSYM-DENSE1                     VALUE 1.
+           78 PATSYM-DENSE2                     VALUE 2.
+           78 PATSYM-DENSE3                     VALUE 3.
+           78 PATSYM-DENSE4                     VALUE 4.
+           78 PATSYM-DENSE5                     VALUE 5.
+           78 PATSYM-DENSE6                     VALUE 6.
+           78 PATSYM-DENSE7                     VALUE 7.
+           78 PATSYM-DENSE8                     VALUE 8.
+           78 PATSYM-VERT                       VALUE 9.
+           78 PATSYM-HORIZ                      VALUE 10.
+           78 PATSYM-DIAG1                      VALUE 11.
+           78 PATSYM-DIAG2                      VALUE 12.
+           78 PATSYM-DIAG3                      VALUE 13.
+           78 PATSYM-DIAG4                      VALUE 14.
+           78 PATSYM-NOSHADE                    VALUE 15.
+           78 PATSYM-SOLID                      VALUE 16.
+           78 PATSYM-BLANK                      VALUE 64.
+           78 PATSYM-HALFTONE                   VALUE 17.

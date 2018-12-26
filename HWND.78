@@ -1,0 +1,9 @@
+      *************************************************
+      *  Constants Copy file: HWND.78
+      *************************************************
+           78 HWND-DESKTOP                      VALUE 1.
+           78 HWND-OBJECT                       VALUE 2.
+           78 HWND-TOP                          VALUE 3.
+           78 HWND-BOTTOM                       VALUE 4.
+           78 HWND-THREADCAPTURE                VALUE 5.
+           78 HWND-PARENT                       VALUE 0.
